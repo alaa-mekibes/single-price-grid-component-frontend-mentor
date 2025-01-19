@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/single-price-grid-component-9YzSLM4u70
   
 - Live Site URL: https://alaa-mekibes.github.io/single-price-grid-component-frontend-mentor
 
