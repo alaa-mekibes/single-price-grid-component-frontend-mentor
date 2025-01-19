@@ -16,6 +16,13 @@
     padding: 0;
     box-sizing: border-box
 }
+body {
+    font-family: "Karla", serif;
+    background-color: var(--Light-Gray);
+    display: grid;
+    place-items: center;
+    min-height: 100vh
+}
 .visually_hidden {
     position: absolute;
     width: 1px;
@@ -26,13 +33,6 @@
     clip: rect(0, 0, 0, 0);
     white-space: nowrap;
     border: 0
-}
-body {
-    font-family: "Karla", serif;
-    background-color: var(--Light-Gray);
-    display: grid;
-    place-items: center;
-    min-height: 100vh
 }
 .box_container {
     margin: 1rem 2rem;
